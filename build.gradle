@@ -23,14 +23,9 @@ allprojects {
 }
 
 ext {
-    sdk = 27
+    sdk = 24
+    buildTools = "25.0.0"
     minSdk = 14
-    supportVersion = "27.0.2"
-
-    github = 'https://github.com/SergeyKrasnozhon/SingleDateAndTimePicker'
-
-    libraryGroup = 'com.github.SergeyKrasnozhon'
-    libraryName = 'singledateandtimepicker'
-    libraryVersion = "2.1.2"
-    libraryDescription = 'SingleDateAndTimePicker'
+    libraryVersion = "2.0.1"
+    supportVersion = "25.0.0"
 }
