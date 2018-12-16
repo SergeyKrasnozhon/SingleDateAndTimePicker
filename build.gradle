@@ -27,9 +27,9 @@ ext {
     minSdk = 14
     supportVersion = "27.0.2"
 
-    github = 'https://github.com/florent37/SingleDateAndTimePicker'
+    github = 'https://github.com/SergeyKrasnozhon/SingleDateAndTimePicker'
 
-    libraryGroup = 'com.github.florent37'
+    libraryGroup = 'com.github.SergeyKrasnozhon'
     libraryName = 'singledateandtimepicker'
     libraryVersion = "2.1.2"
     libraryDescription = 'SingleDateAndTimePicker'
